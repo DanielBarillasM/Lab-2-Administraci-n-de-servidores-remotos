@@ -1,1 +1,1 @@
-# Lab-2-Administraci-n-de-servidores-remotos
+[Laboratorio 2_Administración de servidores remotos_WEB_Daniel Barillas_22193.txt](https://github.com/user-attachments/files/20540683/Laboratorio.2_Administracion.de.servidores.remotos_WEB_Daniel.Barillas_22193.txt)
